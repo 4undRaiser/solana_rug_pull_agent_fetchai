@@ -1,5 +1,7 @@
 # Solana Rug Pull Detector Agent
 
+![tag:innovationlab](https://img.shields.io/badge/innovationlab-3D8BD3)
+
 - **Agent name:** Solana Rug Pull Detector Agent
 - **Agent address:** agent1qg59057886303vjd3sfecgmy0wrtjazhpwqmwhpau3r67uwg5vp755u8qrk
 
